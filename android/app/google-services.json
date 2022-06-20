@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504356247110",
+    "project_id": "password-a16fa",
+    "storage_bucket": "password-a16fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504356247110:android:71ecf229a76b285ca5dc47",
+        "android_client_info": {
+          "package_name": "com.aviapps3.password"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504356247110-s9b5sa1sm46tgerlc7l3qjecajffth3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwpijsxChMbEbw4uqMm9SWsBWuWfuDCDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504356247110-s9b5sa1sm46tgerlc7l3qjecajffth3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
